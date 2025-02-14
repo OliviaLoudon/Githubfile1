@@ -6,3 +6,9 @@ h1 {
 pre {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
