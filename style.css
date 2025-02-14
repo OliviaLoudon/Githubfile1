@@ -1,7 +1,7 @@
 
 
 h1 {
-    color: purple;
+        text-align: center;
 }
 pre {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -12,3 +12,18 @@ pre {
     margin-right: auto;
     width: 40%;
 }
+.button {
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 8px;
+    padding: 5px 5px;
+    margin: 50px 50px;
+    align-items: center;
+}
+img {
+    padding: 5px 5px;
+    margin: 5px 5px;
+    border-radius: 8px;
+    
+}
+div {text-align: center;}
