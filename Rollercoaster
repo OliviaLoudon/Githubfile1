@@ -3,32 +3,34 @@
     <head>
         <title>Simple Website</title>
         <link rel="stylesheet" href="style.css">
-<h1>rollercoaster</h1>
+<h1>Rollercoaster</h1>
+<a href="file:///C:/Users/olivi/Documents/Githubfile1/index.html">Go home</a>
 </head>
 <body>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Roller_coaster%2C_North_Korea_01.jpg"></img>
+<img height="400" weight="500" alt="A North Korean Roller Coaster"
+src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Roller_coaster%2C_North_Korea_01.jpg"></img>
 <p><pre>
 
 
-                            Coaster                                            Loop
-                    Roller      Flying                                  the             the                                                                                               Did   
-                A                Up                                            Loop                                                                                            left coming-   that
-            On                    And                   right             the           goes                                                                                Big drop   
-     I'm                           Down.        move            through                           back around. It evens out                                            There's one            link 
-Now                                        We                                                                               and I can wave to you down there I see ya.
-                                                                                                                                                                                                say
-                                                                                                                                                                                                    
-                                                                                                                                                                                                  
-
-                                                                                                                                                                                                  North
-
-
-
-
-                                                                                                                                                                                                        
-                                                                                                                                                                                                       Korea?
+        And
+       Up   Down.
+      Going  It 
+     It's     Goes     
+    Coaster    On                  Loop
+   Roller         Through   The     The                                               Coming-Did
+  A                    The             Loop                                          Drop       
+ On                                      and it comes                               Big       
+I'm                                             back around.                       More                 That  
+                                                    It evens out                  One
+                                                        and I can wave          There's
+                                                          At you down there I see ya.                   Link
 
 
+                                                                                                                                Say
+                                                          
 
+                                                                                                                                North
+                                                                                                                                    Korea?!   
 </pre></p>
 </body>
+</html>

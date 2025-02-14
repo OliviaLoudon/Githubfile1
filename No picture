@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-<p><pre>
-Well shoot, there is no image here.
-I must have just forgot.
-Maybe you should click away?
-I guess that I've been caught.
+    <a href="file:///C:/Users/olivi/Documents/Githubfile1/index.html">Go home</a>
+<h1>No Picture</h1>
+<p>Well shoot, there is no image here.</p>
+<p style="color: #1b1b1b;">I must have just forgot.</p>
+<p style="color: #404040;">Maybe you should click away?</p>
+<p style="color: #5c5c5c;">I guess that I've been caught.</p>
 
-Oh, this is so embarassing
-I'm surely gonna fail
-I'll get kicked out, disowned
-And then I'll surely go to jail.
+<p style="color: #727272">Oh, this is so embarassing</p>
+<p style="color: #808080">I'm surely gonna fail</p>
+<p style="color: #808080">I'll get kicked out, disowned</p>
+<p style="color: #8D8D8D">And then I'll surely go to jail.</p>
 
-Maybe the answer's not in grey
-It's shades of black and white.
-Yes, I've found an escape and now
-I've vanished from your sight.
-</pre></p>
+<p style="color: #ACACAC">Maybe the answer's not in grey</p>
+<p style="color: #BFBFBF">It's shades of black and white.</p>
+<p style="color: #EEEEEE">Yes, I've found an escape and now</p>
+<p style="color: #ffffff;">I've vanished from your sight.</p>
 </html>
